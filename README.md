@@ -1,4 +1,3 @@
-
 PASOS PARA LA CREACION DEL PROYECTO: 
 
 1. Identificación de Técnicas y Modelos
